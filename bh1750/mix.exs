@@ -1,4 +1,4 @@
-defmodule Bh1750.MixProject do
+defmodule BH1750.MixProject do
   use Mix.Project
 
   def project do
